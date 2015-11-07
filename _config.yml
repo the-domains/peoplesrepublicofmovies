@@ -1,0 +1,23 @@
+name: PeoplesRepublicofMovies
+favicon: null
+layout_spectrum: 0.047585790045559406
+typography_spectrum: 0.9640037943609059
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.37841722881421447
+  lightness: 0.8744779760017991
+  saturation: 0.9837677371688187
+  rhythmicContrast: 0.8493849523365498
+purpose: []
