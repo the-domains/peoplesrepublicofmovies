@@ -2,6 +2,7 @@ name: PeoplesRepublicofMovies
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.45088
+title: PROM
 cta:
   domain: null
   bucket: null
